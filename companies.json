@@ -1,0 +1,4 @@
+{
+  "greenhouse": ["stripe", "airbnb", "databricks", "anthropic", "cloudflare", "coinbase"],
+  "lever": ["palantir", "spotify"]
+}
